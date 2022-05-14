@@ -7,6 +7,14 @@
 
 body {
   background-color: #4E5BEE;
+  
+}
+
+header {
+  width: 180px;
+  height: 70px;
+
+  margin-bottom: 95px;
 }
 
 main input {
